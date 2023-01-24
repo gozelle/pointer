@@ -1,3 +1,3 @@
-module github.com/AlekSi/pointer
+module github.com/gozelle/pointer
 
 go 1.18

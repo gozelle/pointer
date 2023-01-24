@@ -1,5 +1,5 @@
 // Package pointer provides helpers to convert between pointers and values of built-in (and, with generics, of any) types.
-package pointer // import "github.com/AlekSi/pointer"
+package pointer // import "github.com/gozelle/pointer"
 
 import (
 	"time"

@@ -1,15 +1,15 @@
 # pointer
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/AlekSi/pointer.svg)](https://pkg.go.dev/github.com/AlekSi/pointer)
+[![Go Reference](https://pkg.go.dev/badge/github.com/gozelle/pointer.svg)](https://pkg.go.dev/github.com/gozelle/pointer)
 
 Go package `pointer` provides helpers to convert between pointers and values of built-in
 (and, with Go 1.18+ generics, of any) types.
 
 ```
-go get github.com/AlekSi/pointer
+go get github.com/gozelle/pointer
 ```
 
-API is stable. [Documentation](https://pkg.go.dev/github.com/AlekSi/pointer).
+API is stable. [Documentation](https://pkg.go.dev/github.com/gozelle/pointer).
 
 ```go
 package motivationalexample
@@ -17,7 +17,7 @@ package motivationalexample
 import (
 	"encoding/json"
 
-	"github.com/AlekSi/pointer"
+	"github.com/gozelle/pointer"
 )
 
 const (
